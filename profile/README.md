@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/logo.png" alt="BBARIT" width="200" />
+  <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/logo.png" alt="BBARIT" width="200" />
 </p>
 
 <h1 align="center">빠릿 BBARIT</h1>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://bbarit.com"><img src="https://img.shields.io/badge/Website-bbarit.com-E11D48?style=for-the-badge" alt="Website" /></a>
-  <a href="https://bbarit.com"><img src="https://img.shields.io/badge/Membership-1년_66만원-111827?style=for-the-badge" alt="Membership" /></a>
+  <a href="https://bbarit.com/pricing"><img src="https://img.shields.io/badge/Membership-1년_66만원-111827?style=for-the-badge" alt="Membership" /></a>
   <a href="https://github.com/bbarit/community/issues"><img src="https://img.shields.io/badge/Community-CS_%26_QnA-5319E7?style=for-the-badge" alt="Community" /></a>
 </p>
 
@@ -31,14 +31,14 @@
 
 | | | |
 |---|---|---|
-| <img src="profile/assets/terminal.png" width="56" /> | **[빠릿터미널](https://github.com/bbarit/terminal)** — AI 바이브코딩 올인원 IDE | Claude · Codex · Ollama · Kimi · Monaco · PM2 모니터링 |
-| <img src="profile/assets/captures.png" width="56" /> | **[빠릿캡처스](https://github.com/bbarit/captures)** — 제품 데모 영상 녹화/편집 | 화면 녹화 · GIF/MP4 · 워터마크 없음 |
-| <img src="profile/assets/workers.png" width="56" /> | **[빠릿워커스](https://github.com/bbarit/workers)** — AI-First SaaS 보일러플레이트 | Hono · Cloudflare Workers · D1 · KV · R2 · AI |
-| <img src="profile/assets/press.png" width="56" /> | **빠릿프레스** — 개발자 블로그 자동 발행 | 마크다운 · SEO 자동 · 커스텀 도메인 |
-| <img src="profile/assets/mail.png" width="56" /> | **빠릿메일** — 매일 오는 바이브코딩 뉴스레터 | 매일 · AI 코딩 트렌드 · SaaS 빌딩 팁 |
-| <img src="profile/assets/books.png" width="56" /> | **[빠릿북스](https://books.bbarit.com)** — 월간 바이브코딩 시장보고서 | AI 도구 비교 · 수익화 전략 · PDF |
-| <img src="profile/assets/vibe.png" width="56" /> | **[빠릿바이브](https://github.com/bbarit/vibe)** — 런칭 필수 템플릿 | 랜딩 · 약관 · 피치덱 · 이메일 |
-| <img src="profile/assets/class.png" width="56" /> | **빠릿클래스** — 바이브코딩 강의 | 기본 강의 30개+ · 월 2회 웨비나 |
+| <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/terminal.png" width="56" /> | **[빠릿터미널](https://github.com/bbarit/terminal)** — AI 바이브코딩 올인원 IDE | Claude · Codex · Ollama · Kimi · Monaco · PM2 모니터링 |
+| <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/captures.png" width="56" /> | **[빠릿캡처스](https://github.com/bbarit/captures)** — 제품 데모 영상 녹화/편집 | 화면 녹화 · GIF/MP4 · 워터마크 없음 |
+| <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/workers.png" width="56" /> | **[빠릿워커스](https://github.com/bbarit/workers)** — AI-First SaaS 보일러플레이트 | Hono · Cloudflare Workers · D1 · KV · R2 · AI |
+| <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/press.png" width="56" /> | **빠릿프레스** — 개발자 블로그 자동 발행 | 마크다운 · SEO 자동 · 커스텀 도메인 |
+| <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/mail.png" width="56" /> | **빠릿메일** — 매일 오는 바이브코딩 뉴스레터 | 매일 · AI 코딩 트렌드 · SaaS 빌딩 팁 |
+| <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/books.png" width="56" /> | **[빠릿북스](https://books.bbarit.com)** — 월간 바이브코딩 시장보고서 | AI 도구 비교 · 수익화 전략 · PDF |
+| <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/vibe.png" width="56" /> | **[빠릿바이브](https://github.com/bbarit/vibe)** — 런칭 필수 템플릿 | 랜딩 · 약관 · 피치덱 · 이메일 |
+| <img src="https://raw.githubusercontent.com/bbarit/.github/main/profile/assets/class.png" width="56" /> | **빠릿클래스** — 바이브코딩 강의 | 기본 강의 30개+ · 월 2회 웨비나 |
 | 🍊 | **[마케케](https://github.com/bbarit/makeke)** — AI 마케팅 자동화 (프리웨어) | 6개 플랫폼 자동 발행 · 39개 AI 도구 |
 
 ---
