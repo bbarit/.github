@@ -6,6 +6,8 @@
 
 Maker of **BBARIT Terminal** — the all-in-one AI vibe-coding IDE: every AI agent + every dev tool, in one native terminal.
 
+🎥 [Watch the intro & demo](https://youtu.be/5IBCLQHED3M)
+
 🍎 [Download (macOS)](https://github.com/bbarit/terminal/releases/latest) · 🪟 [Download (Windows)](https://github.com/bbarit/terminal-win/releases/latest) · 🌐 [bbarit.com](https://bbarit.com)
 
 </div>
