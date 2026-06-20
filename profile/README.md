@@ -24,7 +24,7 @@ Run **Claude · Codex · Gemini · Kimi · Qwen · OpenCode · Ollama** side by 
 - 🛠️ Git panel, hybrid code search + code-graph, Kanban/Gantt, MCP, MySQL/Postgres, PM2, SSH
 - 📚 Karpathy Wiki (project + global), notes & knowledge graph, skills library, self-improving rules, RTM requirements tracking
 - 🔌 Telegram · Discord · Slack · GitHub · Linear, **Web Terminal** (browser access via Cloudflare) and **real-time team Collab**
-- 🎨 **NanoBanana AI studio** (icons, banners, logos, ads, video, web builder), native video editor, screen capture
+- 🌐 Built-in Chromium browser + AI toolbar, native video editor, screen capture
 
 Native, fast, auto-updating — built with **Tauri + Rust + React**.
 
