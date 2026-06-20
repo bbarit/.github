@@ -4,7 +4,7 @@
 
 ### AI vibe-coding tools for developers who ship with AI.
 
-Maker of **BBARIT Terminal** — the all-in-one AI vibe-coding IDE: every AI agent + every dev tool, in one native terminal.
+Maker of **BBARIT Terminal** — the **ultimate AI vibe-coding IDE** (궁극의 AI 바이브코딩, *formerly **Octo Terminal**/구 옥토터미널*): every AI agent + every dev tool, in one native terminal.
 
 🎥 [Watch the intro & demo](https://youtu.be/5IBCLQHED3M)
 
